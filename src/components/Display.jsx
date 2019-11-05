@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 
 class Display extends Component {
-    state = {  }
     render() { 
         return ( 
             <React.Fragment>

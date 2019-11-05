@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Button from './Button';
 
 class ButtonGroup extends Component {
-    state = {};
     render() {
         // console.log(this.props);
     return (
